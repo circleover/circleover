@@ -1,8 +1,8 @@
 ---
 layout: home
 hero:
-    title: TensorCharts Docs
-    subtitle: Search or browse in manual, videos and tutorials on TensorCharts, from basic orderflow concepts to TC setup, scripting and trading strategies
+    title: CircleOver
+    subtitle: Search or browse in manual, videos and tutorials on CircleOver, from basic orderflow concepts to TC setup, scripting and trading strategies
     image: 
     search: true
 categories:
