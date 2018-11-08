@@ -5,8 +5,8 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 # Site title and description
-title:              TensorCharts Manual
-description:        Documentation and tutorials about TensorCharts.com
+title:              CircleOver
+description:        Documentation and tutorials about circleover.com
 
 # Site subpath, e.g. /blog
 baseurl:            ""
@@ -15,7 +15,7 @@ baseurl:            ""
 permalink:          /:title/
 
 # Site base hostname & protocol, e.g. http://example.com
-url:                "https://docs.tensorcharts.com"
+url:                "https://circleover.com"
 
 # Site logo, image or text
 brand:
@@ -24,38 +24,38 @@ brand:
 
 # Default author settings
 author:
-    name:       TensorCharts
-    github:     TensorCharts    # Github username for avatar
+    name:       Mohamed El-masry
+    github:     circleover    # Github username for avatar
 
 # Author settings, displayed on post and doc pages if front matter references author name e.g. author: peter
 authors:
     peter:
-        name:       TensorCharts
-        github:     TensorCharts    # Github username for avatar
+        name:       Mohamed El-masry
+        github:     circleover    # Github username for avatar
 
 # Social icons displayed in footer
 social:
     email:
     website:
-    facebook:       
+    facebook:       https://facebook.com/circleover
     flickr:
     dribbble:
     github:
     googleplus:
-    instagram:      
+    instagram:      https://instagram.com/circleover
     linkedin:
     pinterest:
-    twitter:        https://twitter.com/TensorCharts
+    twitter:        https://twitter.com/circleover
     vimeo:          
-    youtube:        https://www.youtube.com/channel/UCEEdXfhYRJQxlo8-w7qDZ1g
-    reddit:         https://www.reddit.com/r/tensorcharts/
+    youtube:        
+    reddit:         
 
 # Twitter share button
-twitter_username:
+twitter_username: circleover
 
 # Default footer image settings
 footer:
-    copyright:      Made by TensorCharts.com
+    copyright:      Made by a human somewhere on the planet earth.
 
 # Disqus comments shortname, requires Disqus account https://disqus.com/
 disqus:
